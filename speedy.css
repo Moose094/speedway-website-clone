@@ -1,0 +1,94 @@
+header{
+border-top: red solid;	
+margin-bottom:-40px;
+}
+
+.nav li{
+	padding:40px;
+}
+
+#nav1{
+color:red;	
+}
+
+.jumbotron{
+background-color:#250259;
+
+}
+/* the 3 nav styles below are for centering */
+.nav2 {
+width:850px;
+margin:0 auto;
+}
+
+.nav2 li {
+float:left;
+}
+.nav2 a {
+display:block;
+text-align:center;
+width:150px;
+}
+
+.display-4{
+font-size:24px;	
+}
+
+
+
+#firstpa{
+color:white;	
+text-align:center;
+}
+
+#jumbo1{
+	color:Yellow;
+	
+}
+
+#jumbo2{
+	color:Yellow;
+	
+}
+
+#jumbo3{
+	color:Yellow;
+	
+}
+
+#jumbo4{
+	color:Yellow;
+	
+}
+#jumbo5{
+	color:White;
+	
+}
+
+#butt{
+background-color:yellow;
+width: 10%;
+border-radius:50px	
+}
+
+#flexing{
+	display:flex;
+	justify-content: center;
+}
+
+#bottmain{
+text-align:center;		
+}
+
+#how{
+	color:red;
+}
+#bo{
+color:grey;	
+}
+
+#bonus{
+background-color:#250259;
+color:white;
+	border-radius:50px;
+}
